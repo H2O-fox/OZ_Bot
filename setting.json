@@ -1,0 +1,14 @@
+{
+    "TOKEN": "NjgyMjA4Mjk2MTAyMjY0ODg3.XmsnGw.9hh5bwrsnPhO8cEFGfsqWJ49cuo",
+    "Welcome_channel": "687916466376278023",
+    "Leave_channel": "687916657565630506",
+
+    "pic": ["C:\\Users\\user\\Documents\\GitHub\\OZ_Bot\\pic\\1.jpg",
+            "C:\\Users\\user\\Documents\\GitHub\\OZ_Bot\\pic\\2.jpg"],
+            
+    "url_pic": ["https://i.pinimg.com/236x/80/bc/54/80bc54331ede969287c3c12c95fa54d4.jpg",
+                "https://i.pinimg.com/236x/5e/00/4a/5e004af57ada0d8b563da92cc38599c8.jpg"],
+                
+    "keyword": ["apple","pen","pie"]
+
+}
